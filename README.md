@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StevenAGates
+- 👋 Hi, I’m @Steven@York
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - ⚡ Fun fact: ... Never too Old
